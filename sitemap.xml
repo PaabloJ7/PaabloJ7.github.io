@@ -3,7 +3,7 @@
 
     
     <url>
-     <loc>/</loc>
+     <loc>https://paabloj7.github.io//</loc>
      <lastmod>2023-05-30</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -11,7 +11,7 @@
 
     
     <url>
-     <loc>/ControlVersiones/</loc>
+     <loc>https://paabloj7.github.io//ControlVersiones/</loc>
      <lastmod>2023-05-30</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -19,7 +19,7 @@
 
     
     <url>
-     <loc>/HerramientasDesarrollo/</loc>
+     <loc>https://paabloj7.github.io//HerramientasDesarrollo/</loc>
      <lastmod>2023-05-30</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -27,7 +27,7 @@
 
     
     <url>
-     <loc>/LenguajesProgramacion/</loc>
+     <loc>https://paabloj7.github.io//LenguajesProgramacion/</loc>
      <lastmod>2023-05-30</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -35,15 +35,7 @@
 
     
     <url>
-     <loc>/PruebasUnitarias/</loc>
-     <lastmod>2023-05-30</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    
-
-    
-    <url>
-     <loc>/about/</loc>
+     <loc>https://paabloj7.github.io//PruebasUnitarias/</loc>
      <lastmod>2023-05-30</lastmod>
      <changefreq>daily</changefreq>
     </url>
